@@ -27,6 +27,7 @@ int main(int argc,char *args[])
 /*
 	if(argc!=2)
 	{
+	///git comment
 		printf("the number is error\n");
 		return 1;
 	}
